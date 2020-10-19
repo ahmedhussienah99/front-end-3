@@ -1,0 +1,21 @@
+
+
+*{margin: 0;padding: 0;}
+.search{ width: 265px; font-size: 17PX;}
+.overlay{ background-color: rgba(0,0,0,0.6);}
+.shapes{ margin: auto;}
+.size{font-size:15px;}
+.colortext{color: #612676;}
+.coloryellow{ background-color: #FFD600;}
+.h{font-weight: 700; font-size: 30px;}
+.footer{background-color: #612676; height: 500px;}
+
+.secondheader{
+    background-image: url(../imgs/cover.jpg);
+    height: 650px;
+    background-size: cover;
+	background-position: center;
+}
+.h{
+    height: 500px; display: flex; align-items: flex-start;
+}
